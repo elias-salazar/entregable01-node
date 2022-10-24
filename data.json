@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "tarea 1",
+    "description": "hacer una apo con este json",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "tarea 2",
+    "description": "tarea enviada por el post",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "tarea 3",
+    "description": "tarea enviada por el post 3",
+    "status": false
+  },
+  {
+    "id": 4,
+    "title": "tarea 4",
+    "description": "tarea enviada por el post 4",
+    "status": false
+  },
+  {
+    "id": 5,
+    "title": "tarea 5",
+    "description": "tarea enviada por el post 5",
+    "status": false
+  }
+]
